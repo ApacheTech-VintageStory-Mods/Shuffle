@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "الحد الأدنى لفتحة Hotbar: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "لا يمكن تعيين الحد الأدنى لفتحة الشريط السريع.",
+    "Features.HotbarShuffle.MaxTooLow":  "لا يمكن تعيين الحد الأقصى لفتحة شريط التشغيل السريع أسفل الحد الأدنى لفتحة شريط التشغيل السريع.",
+    "Features.HotbarShuffle.SetMaximum":  "الحد الأقصى لفتحة Hotbar: {0}",
+    "Features.HotbarShuffle.Enabled":  "خلط ورق المراوغة Hotbar: {0}"
+}

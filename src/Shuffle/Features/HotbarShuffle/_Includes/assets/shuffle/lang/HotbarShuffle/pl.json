@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Minimalne miejsce na pasku skrótów: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Nie można ustawić minimalnego miejsca na pasku skrótów powyżej maksymalnego miejsca na pasku skrótów.",
+    "Features.HotbarShuffle.MaxTooLow":  "Nie można ustawić maksymalnego miejsca na pasku skrótów poniżej minimalnego miejsca na pasku skrótów.",
+    "Features.HotbarShuffle.SetMaximum":  "Maksymalne miejsce na pasku skrótów: {0}",
+    "Features.HotbarShuffle.Enabled":  "Pasek skrótów losowych: {0}"
+}

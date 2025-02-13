@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Minsta Hotbar-plats: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Det går inte att ställa in minsta hotbar-plats över den maximala hotbar-platsen.",
+    "Features.HotbarShuffle.MaxTooLow":  "Det går inte att ställa in den maximala hotbar-platsen under den lägsta hotbar-platsen.",
+    "Features.HotbarShuffle.SetMaximum":  "Maximal Hotbar-plats: {0}",
+    "Features.HotbarShuffle.Enabled":  "Shuffle Hotbar: {0}"
+}

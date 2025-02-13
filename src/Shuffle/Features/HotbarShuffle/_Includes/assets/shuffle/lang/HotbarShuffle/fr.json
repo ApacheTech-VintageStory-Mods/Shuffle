@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Emplacement minimum de la barre de raccourcis : {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Impossible de définir l’emplacement minimum de la barre de raccourcis au-dessus de l’emplacement maximum de la barre de raccourcis.",
+    "Features.HotbarShuffle.MaxTooLow":  "Impossible de définir l’emplacement maximum de la barre de raccourcis en dessous de l’emplacement minimum.",
+    "Features.HotbarShuffle.SetMaximum":  "Emplacement maximum de la barre de raccourcis : {0}",
+    "Features.HotbarShuffle.Enabled":  "Barre de raccourcis aléatoire : {0}"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Minimálny slot pre Hotbar: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Nie je možné nastaviť minimálny slot pre hotbar nad maximálny slot pre hotbar.",
+    "Features.HotbarShuffle.MaxTooLow":  "Nie je možné nastaviť maximálny slot pre hotbar pod minimálnym slotom pre hotbar.",
+    "Features.HotbarShuffle.SetMaximum":  "Maximálny slot pre Hotbar: {0}",
+    "Features.HotbarShuffle.Enabled":  "Náhodný panel Hotbar: {0}"
+}

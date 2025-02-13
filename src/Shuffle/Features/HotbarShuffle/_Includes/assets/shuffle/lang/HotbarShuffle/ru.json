@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Минимальное количество слотов на панели быстрого доступа: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Невозможно установить минимальный слот хотбара выше максимального слота хотбара.",
+    "Features.HotbarShuffle.MaxTooLow":  "Невозможно установить максимальный слот хотбара ниже минимального слота хотбара.",
+    "Features.HotbarShuffle.SetMaximum":  "Максимальное количество слотов на панели быстрого доступа: {0}",
+    "Features.HotbarShuffle.Enabled":  "Shuffle Hotbar: {0}"
+}

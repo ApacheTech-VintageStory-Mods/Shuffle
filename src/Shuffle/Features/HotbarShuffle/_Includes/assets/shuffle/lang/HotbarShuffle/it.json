@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Slot minimo per la barra calda: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Impossibile impostare lo slot minimo della barra di scelta rapida al di sopra dello slot massimo della barra di scelta rapida.",
+    "Features.HotbarShuffle.MaxTooLow":  "Impossibile impostare lo slot massimo della barra di scelta rapida al di sotto dello slot minimo della barra di scelta rapida.",
+    "Features.HotbarShuffle.SetMaximum":  "Slot massimo per la barra calda: {0}",
+    "Features.HotbarShuffle.Enabled":  "Barra di scelta rapida casuale: {0}"
+}

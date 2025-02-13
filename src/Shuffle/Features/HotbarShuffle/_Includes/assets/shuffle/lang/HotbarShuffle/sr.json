@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Minimalni Hotbar Slot: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Ne mogu podesiti minimalni slot za vruću traku iznad maksimalnog slota za vruću traku.",
+    "Features.HotbarShuffle.MaxTooLow":  "Ne mogu podesiti maksimalni slot za hotbar ispod minimalnog slota za hotbar.",
+    "Features.HotbarShuffle.SetMaximum":  "Maksimalni Hotbar slot: {0}",
+    "Features.HotbarShuffle.Enabled":  "Shuffle Hotbar: {0}"
+}

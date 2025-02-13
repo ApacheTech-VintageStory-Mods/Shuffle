@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Minimální slot pro Hotbar: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Nelze nastavit minimální slot hotbaru nad maximální slot hotbaru.",
+    "Features.HotbarShuffle.MaxTooLow":  "Nelze nastavit maximální počet slotů na hotbaru pod minimální slot na hotbaru.",
+    "Features.HotbarShuffle.SetMaximum":  "Maximální slot Hotbar: {0}",
+    "Features.HotbarShuffle.Enabled":  "Zamíchat hotbar: {0}"
+}

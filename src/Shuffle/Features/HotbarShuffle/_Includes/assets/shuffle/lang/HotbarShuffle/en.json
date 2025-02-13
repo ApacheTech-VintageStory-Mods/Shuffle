@@ -1,0 +1,7 @@
+{
+  "Features.HotbarShuffle.Enabled": "Shuffle Hotbar: {0}",
+  "Features.HotbarShuffle.SetMinimum": "Minimum Hotbar Slot: {0}",
+  "Features.HotbarShuffle.SetMaximum": "Maximum Hotbar Slot: {0}",
+  "Features.HotbarShuffle.MinTooHigh": "Cannot set minimum hotbar slot above the maximum hotbar slot.",
+  "Features.HotbarShuffle.MaxTooLow": "Cannot set maximum hotbar slot below the minimum hotbar slot."
+}

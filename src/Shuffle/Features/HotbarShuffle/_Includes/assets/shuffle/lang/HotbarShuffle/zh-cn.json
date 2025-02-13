@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "最小热键栏栏位：{0}",
+    "Features.HotbarShuffle.MinTooHigh":  "无法将最小快捷栏槽位设置为高于最大快捷栏槽位。",
+    "Features.HotbarShuffle.MaxTooLow":  "无法将最大快捷栏槽位设置为低于最小快捷栏槽位。",
+    "Features.HotbarShuffle.SetMaximum":  "最大快捷栏栏位：{0}",
+    "Features.HotbarShuffle.Enabled":  "随机热键栏：{0}"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Мінімальний слот для гарячої панелі: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Не вдається встановити мінімальний слот гарячої панелі вище максимального слота гарячої панелі.",
+    "Features.HotbarShuffle.MaxTooLow":  "Не вдається встановити максимальний слот для гарячої панелі нижче мінімального слота для гарячої панелі.",
+    "Features.HotbarShuffle.SetMaximum":  "Максимальний слот для гарячої панелі: {0}",
+    "Features.HotbarShuffle.Enabled":  "Гаряча панель Shuffle: {0}"
+}

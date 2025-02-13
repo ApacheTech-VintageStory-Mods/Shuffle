@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Ranura mínima de la barra de acceso rápido: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "No se puede establecer la ranura mínima de la barra de acceso rápido por encima de la ranura máxima de la barra de acceso rápido.",
+    "Features.HotbarShuffle.MaxTooLow":  "No se puede establecer la ranura máxima de la barra de acceso rápido por debajo de la ranura mínima de la barra de acceso rápido.",
+    "Features.HotbarShuffle.SetMaximum":  "Ranura máxima de la barra de acceso rápido: {0}",
+    "Features.HotbarShuffle.Enabled":  "Barra de acceso rápido aleatorio: {0}"
+}

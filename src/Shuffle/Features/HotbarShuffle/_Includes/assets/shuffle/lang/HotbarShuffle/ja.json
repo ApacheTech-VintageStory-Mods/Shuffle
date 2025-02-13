@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "最小ホットバースロット:{0}",
+    "Features.HotbarShuffle.MinTooHigh":  "最小ホットバースロットを最大ホットバースロットより上に設定することはできません。",
+    "Features.HotbarShuffle.MaxTooLow":  "最大ホットバースロットを最小ホットバースロットより低く設定することはできません。",
+    "Features.HotbarShuffle.SetMaximum":  "最大ホットバースロット:{0}",
+    "Features.HotbarShuffle.Enabled":  "シャッフルホットバー:{0}"
+}

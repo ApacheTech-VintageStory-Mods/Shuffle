@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Ranhura Hotbar Mínima: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Não é possível definir o slot mínimo da barra de atalho acima do slot máximo da barra de atalho.",
+    "Features.HotbarShuffle.MaxTooLow":  "Não é possível definir o slot máximo de hotbar abaixo do slot mínimo de hotbar.",
+    "Features.HotbarShuffle.SetMaximum":  "Slot Hotbar Máximo: {0}",
+    "Features.HotbarShuffle.Enabled":  "Shuffle Hotbar: {0}"
+}
