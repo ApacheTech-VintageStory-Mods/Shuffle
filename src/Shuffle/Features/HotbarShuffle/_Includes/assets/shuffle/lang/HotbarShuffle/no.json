@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Minimum Hotbar-spor: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Kan ikke angi minimum hotbar-spor over maksimalt hotbar-spor.",
+    "Features.HotbarShuffle.MaxTooLow":  "Kan ikke angi maksimal hotbar-plass under minimum hotbar-plass.",
+    "Features.HotbarShuffle.SetMaximum":  "Maksimal Hotbar-plass: {0}",
+    "Features.HotbarShuffle.Enabled":  "Bland hotbar: {0}"
+}

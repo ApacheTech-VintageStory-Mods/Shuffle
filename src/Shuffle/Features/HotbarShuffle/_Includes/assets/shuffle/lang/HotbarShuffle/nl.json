@@ -1,7 +1,7 @@
 ﻿{
-    "Features.HotbarShuffle.SetMinimum":  "Minimaal Hotbar-slot: {0}",
+    "Features.HotbarShuffle.SetMinimum":  "Minimale hotbar-sleuf: {0}",
     "Features.HotbarShuffle.MinTooHigh":  "Kan de minimale hotbar-sleuf niet instellen boven de maximale hotbar-sleuf.",
-    "Features.HotbarShuffle.MaxTooLow":  "Het maximale hotbar-slot kan niet lager worden ingesteld dan het minimale hotbar-slot.",
-    "Features.HotbarShuffle.SetMaximum":  "Maximaal Hotbar-slot: {0}",
+    "Features.HotbarShuffle.MaxTooLow":  "Kan het maximale hotbar-slot niet lager instellen dan het minimale hotbar-slot.",
+    "Features.HotbarShuffle.SetMaximum":  "Maximale hotbar-sleuf: {0}",
     "Features.HotbarShuffle.Enabled":  "Shuffle Hotbar: {0}"
 }

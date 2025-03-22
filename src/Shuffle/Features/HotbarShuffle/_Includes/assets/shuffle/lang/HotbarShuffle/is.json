@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Lágmarks Hotbar rauf: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Ekki er hægt að stilla lágmarks hotbar rauf yfir hámarks hotbar rauf.",
+    "Features.HotbarShuffle.MaxTooLow":  "Ekki er hægt að stilla hámarks hotbar rauf fyrir neðan lágmarks hotbar rauf.",
+    "Features.HotbarShuffle.SetMaximum":  "Hámarks Hotbar rauf: {0}",
+    "Features.HotbarShuffle.Enabled":  "Uppstokkun Hotbar: {0}"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "Minimum Hotbar-plads: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "Kan ikke indstille minimum hotbar-plads over den maksimale hotbar-plads.",
+    "Features.HotbarShuffle.MaxTooLow":  "Kan ikke indstille den maksimale hotbar-plads under den mindste hotbar-plads.",
+    "Features.HotbarShuffle.SetMaximum":  "Maksimal Hotbar-plads: {0}",
+    "Features.HotbarShuffle.Enabled":  "Bland hotbar: {0}"
+}

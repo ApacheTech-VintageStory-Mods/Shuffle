@@ -10,13 +10,13 @@ public class HotbarShuffle : ClientModSystem, IClientServiceRegistrar
 
     public void ConfigureClientModServices(IServiceCollection services, ICoreClientAPI capi)
     {
-        ApiEx.Logger.VerboseDebug("Registering HotbarShuffle World Settings");
+        G.Log("Registering HotbarShuffle World Settings");
         services.AddFeatureWorldSettings<HotbarShuffleSettings>();
     }
 
     public override void StartClientSide(ICoreClientAPI api)
     {
-        ApiEx.Logger.VerboseDebug("Starting HotbarShuffle ModSystem");
+        G.Log("Starting HotbarShuffle ModSystem");
         _settings = IOC.Services.GetRequiredService<HotbarShuffleSettings>();
         var parsers = api.ChatCommands.Parsers;
         var command = api.ChatCommands

@@ -1,7 +1,7 @@
 ﻿{
     "Features.HotbarShuffle.SetMinimum":  "최소 핫바 슬롯: {0}",
     "Features.HotbarShuffle.MinTooHigh":  "최소 핫바 슬롯을 최대 핫바 슬롯 이상으로 설정할 수 없습니다.",
-    "Features.HotbarShuffle.MaxTooLow":  "최대 핫바 슬롯을 최소 핫바 슬롯보다 낮게 설정할 수 없습니다.",
+    "Features.HotbarShuffle.MaxTooLow":  "최대 핫바 슬롯을 최소 핫바 슬롯 이하로 설정할 수 없습니다.",
     "Features.HotbarShuffle.SetMaximum":  "최대 핫바 슬롯: {0}",
     "Features.HotbarShuffle.Enabled":  "셔플 핫바: {0}"
 }

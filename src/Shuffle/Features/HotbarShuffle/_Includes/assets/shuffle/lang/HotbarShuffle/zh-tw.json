@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "最小熱鍵欄欄位：{0}",
+    "Features.HotbarShuffle.MinTooHigh":  "無法將最小快捷欄槽位設置為高於最大快捷欄槽位。",
+    "Features.HotbarShuffle.MaxTooLow":  "無法將最大快捷欄槽位設置為低於最小快捷欄槽位。",
+    "Features.HotbarShuffle.SetMaximum":  "最大快捷欄欄位：{0}",
+    "Features.HotbarShuffle.Enabled":  "隨機熱鍵列：{0}"
+}

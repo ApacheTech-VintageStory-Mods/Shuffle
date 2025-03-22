@@ -1,0 +1,7 @@
+﻿{
+    "Features.HotbarShuffle.SetMinimum":  "สล็อต Hotbar ขั้นต่ํา: {0}",
+    "Features.HotbarShuffle.MinTooHigh":  "ไม่สามารถตั้งค่าสล็อต hotbar ขั้นต่ําให้สูงกว่าช่อง hotbar สูงสุด",
+    "Features.HotbarShuffle.MaxTooLow":  "ไม่สามารถตั้งค่าสล็อต hotbar สูงสุดต่ํากว่าช่อง hotbar ขั้นต่ํา",
+    "Features.HotbarShuffle.SetMaximum":  "สล็อต Hotbar สูงสุด: {0}",
+    "Features.HotbarShuffle.Enabled":  "สับเปลี่ยน Hotbar: {0}"
+}
